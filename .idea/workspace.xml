@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e095e4b-47c1-4ad9-a6c1-7e85d9709294" name="Changes" comment="1908 fix">
-      <change afterPath="$PROJECT_DIR$/2023/10/1704/prd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023/10/1704/xieyi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ConfigRep.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1e095e4b-47c1-4ad9-a6c1-7e85d9709294" name="Changes" comment="1704 init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[1aef71b30207]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\APPLE\AppData\Local\Android\Sdk\.android\avd\Resizable_Experimental_API_34.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -181,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697968665997</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1704 init">
+      <created>1697973527005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697973527005</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +204,7 @@
     <MESSAGE value="project init" />
     <MESSAGE value="1908 init" />
     <MESSAGE value="1908 fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="1908 fix" />
+    <MESSAGE value="1704 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="1704 init" />
   </component>
 </project>
