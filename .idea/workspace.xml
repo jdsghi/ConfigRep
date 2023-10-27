@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e095e4b-47c1-4ad9-a6c1-7e85d9709294" name="Changes" comment="159801 init">
+    <list default="true" id="1e095e4b-47c1-4ad9-a6c1-7e85d9709294" name="Changes" comment="1903 update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +131,19 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Myprojectdemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Myprojectdemo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -218,7 +231,28 @@
       <option name="project" value="LOCAL" />
       <updated>1698145691093</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1903 update">
+      <created>1698287154930</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698287154930</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1903 update">
+      <created>1698308167668</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308167668</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1903 update">
+      <created>1698384903475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698384903475</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +277,7 @@
     <MESSAGE value="1908 修改" />
     <MESSAGE value="1903 init" />
     <MESSAGE value="159801 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="159801 init" />
+    <MESSAGE value="1903 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="1903 update" />
   </component>
 </project>
